@@ -27,9 +27,11 @@ the job these apps do for your files and your money. **Your data stays inside th
         <li>Ships without the internet permission</li>
         <li>Native C++ engine, smooth on 300+ page files</li>
         <li>AES-256 password protection</li>
+        <li>Open source under AGPL-3.0</li>
       </ul>
       <p>
         <a href="https://play.google.com/store/apps/details?id=com.bluepdf.blue_pdf"><b>Google Play</b></a> ·
+        <a href="https://github.com/The-Blue-Citadel/blue_pdf">Source</a> ·
         <a href="https://the-blue-citadel.github.io/apps/blue-pdf/">About</a> ·
         <a href="https://the-blue-citadel.github.io/privacy/blue-pdf/">Privacy policy</a>
       </p>
@@ -43,6 +45,7 @@ the job these apps do for your files and your money. **Your data stays inside th
         <li>Works fully offline, stored on-device</li>
         <li>Optional bank-text import, off by default</li>
         <li>Shared Groups when you want them</li>
+        <li>No ads, nothing sold</li>
       </ul>
       <p>
         <a href="https://play.google.com/store/apps/details?id=com.thebluecompany.bluepocket"><b>Google Play</b></a> ·
